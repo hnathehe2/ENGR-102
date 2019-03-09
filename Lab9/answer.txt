@@ -1,0 +1,12 @@
+Dependent 1 
+For T1: 40.0
+For T2: 20.0
+For T3: 2.0
+Dependent 2 
+For T1: 345.0
+For T2: 170.0
+For T3: -1.0
+Dependent 3 
+For T1: 196.0
+For T2: 81.0
+For T3: -12.0
